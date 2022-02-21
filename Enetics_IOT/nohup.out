@@ -1,0 +1,28 @@
+
+> myexpressapp@0.0.0 start
+> node ./bin/www
+
+[0mGET / [36m304 [0m266.427 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.710 ms - -[0m
+[0mGET / [32m200 [0m16.539 ms - 189[0m
+[0mGET / [32m200 [0m10.810 ms - 189[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.686 ms - -[0m
+[0mGET / [36m304 [0m9.141 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.527 ms - -[0m
+[0mGET / [36m304 [0m12.024 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.755 ms - -[0m
+[0mGET / [36m304 [0m12.642 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.495 ms - -[0m
+[0mGET / [36m304 [0m6.410 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.597 ms - -[0m
+[0mGET /users [32m200 [0m1.151 ms - 23[0m
+[0mGET / [36m304 [0m8.169 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.602 ms - -[0m
+
+> myexpressapp@0.0.0 start
+> node ./bin/www
+
+[0mGET / [32m200 [0m261.805 ms - 201[0m
+[0mGET /stylesheets/style.css [32m200 [0m3.713 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m17.099 ms - 1242[0m
+[0mGET / [32m200 [0m9.676 ms - 201[0m
